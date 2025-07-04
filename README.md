@@ -1,5 +1,5 @@
 # autism-prediction-model
-# AutiScan: Autism Prediction Model
+
 
 ## Project Overview
 AutiScan is a machine learning-based application developed to predict the likelihood of Autism Spectrum Disorder (ASD) in individuals. It utilizes a dataset of behavioral and demographic features and applies preprocessing and classification techniques to build a reliable prediction system.
